@@ -2,9 +2,12 @@
 <h1 align="center">Hi 👋, I'm Kumar Gaurav</h1>
 <h3 align="center">A passionate FullStack Developer from India</h3>
 
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kumargaurav2722&label=Profile%20views&color=0e75b6&style=flat" alt="kumargaurav2722" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kumargaurav2722" alt="kumargaurav2722" /></a> </p>
+<img align ="right" width ="350px" alt="coding" src="https://github.com/kumargaurav2722/kumargaurav2722/blob/main/animated_coding%202.jpeg"/>
+
 
 - 🔭 I’m currently working on **Pdfilio**
 
